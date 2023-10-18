@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* Specify a fallback font for quick rendering */
+font-family: 'CircularXXWeb-Book', Arial, sans-serif;
+font-display: swap; /* Fallback font is displayed until custom font is loaded */
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+i{
+  cursor: pointer;
+}
